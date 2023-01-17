@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pet App</string>
+    <string name="cat_cat">Cat</string>
+    <string name="cat_dog">Dog</string>
+    <string name="cat_horse">Horse</string>
+    <string name="cat_fish">Fish</string>
+    <string name="pet_samanta">Samanta</string>
+    <string name="pet_kitty">Kitty</string>
+    <string name="pet_puppy">Puppy</string>
+    <string name="pet_monu">Monu</string>
+    <string name="pet_black">Black</string>
+    <string name="pet_dark_horse">Dark Horse</string>
+    <string name="pet_peach">Peach</string>
+    <string name="pet_cathy">Cathy</string>
+    <string name="pet_symon">Symon</string>
+    <string name="pet_munchkin">Munchkin</string>
+    <string name="pet_fluffy">Fluffy</string>
+    <string name="pet_bucking">Bucking</string>
+    <string name="pet_tuesday">Tuesday</string>
+    <string name="pet_sunday">Sunday</string>
+    <string name="pet_monday">Monday</string>
+    <string name="sex_male">Male</string>
+    <string name="sex_female">Female</string>
+</resources>
